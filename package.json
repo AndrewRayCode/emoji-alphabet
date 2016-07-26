@@ -1,6 +1,6 @@
 {
   "name": "emoji-alphabet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mapping of plain text characters to their pseudo-Emoji equivalents",
   "main": "index.js",
   "scripts": {
