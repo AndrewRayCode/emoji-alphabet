@@ -1,0 +1,24 @@
+{
+  "name": "emoji-alphabet",
+  "version": "1.0.0",
+  "description": "A mapping of plain text characters to their pseudo-Emoji equivalents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelvarWorld/emoji-alphabet.git"
+  },
+  "keywords": [
+    "emoji",
+    "alphabet",
+    "ransom"
+  ],
+  "author": "Andrew Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DelvarWorld/emoji-alphabet/issues"
+  },
+  "homepage": "https://github.com/DelvarWorld/emoji-alphabet#readme"
+}
